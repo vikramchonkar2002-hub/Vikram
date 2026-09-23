@@ -1,28 +1,44 @@
-# Suvan Fora
+# Suvan Fora | Luxury Travel Advisor
 
-> Suvan Fora is an independent luxury travel advisory serving high-net-worth (HNI) and ultra-high-net-worth (UHNI) clients. It designs and books bespoke vacations — private villas, five-star resorts, private islands, safaris, and yacht/private jet coordination — through the Fora Travel network, at the same price as booking direct, plus complimentary VIP perks (room upgrades, resort credit, priority check-in/checkout).
+> Suvan Fora is an independent luxury travel advisor powered by Fora Travel. Books luxury hotels at the same cost as direct booking — no fees, plus exclusive perks (room upgrades, resort credit, early check-in/late checkout, dedicated support). Specializes in bespoke Southeast Asia vacations for HNI/UHNI couples, families, and milestone trips.
 
 ## Who this is for
-High-net-worth and ultra-high-net-worth individuals and families seeking a dedicated, discreet travel advisor for fully personalized luxury vacations, rather than self-booking through OTAs.
 
-## What Suvan Fora offers
-- Bespoke luxury vacation planning and itinerary design
-- Private villa and estate rentals with on-the-ground staff
-- Five-star resort and suite bookings with VIP amenities
-- Overwater and private-island escapes (Maldives, Bora Bora, Seychelles)
-- Luxury safari and expedition travel
-- Yacht and private jet trip coordination
-- Destination weddings, honeymoons, and milestone trips
-- Multi-generational family travel planning
+High-net-worth and ultra-high-net-worth individuals and families seeking a discreet, dedicated luxury travel advisor for fully personalized vacations without booking fees or self-booking through online travel agencies.
 
-## How booking works
-Clients submit a trip request (destination, dates, preferences) via the form on https://suvanfora.com/, or message @suvan.fora on Instagram. Suvan Fora then designs a custom itinerary and sends a personalized Fora Travel booking link for that specific trip (the booking link varies by client and destination, since it routes through Fora's advisor-matching system). Fora Travel has facilitated more than $2 billion in bookings across 180+ countries. Booking through an advisor costs the same as booking direct and adds complimentary perks not available to the general public.
+## Services
+
+**Vacation Planning**: Bespoke itineraries tailored to your pace, privacy, and preferences
+**Accommodations**: Private villas, five-star resorts, overwater bungalows, luxury estates
+**Experiences**: Safari expeditions, yacht coordination, private jet trips, destination weddings, honeymoons
+**Destinations**: 180+ countries with preferred relationships (Bali, Thailand, Vietnam, Singapore, Maldives, Middle East, Europe, India)
+**Perks**: Room upgrades, resort credit, early check-in/late checkout, 24/7 support, privacy-first planning
+
+## How it works
+
+1. Submit trip request (destination, dates, style) via form at https://suvanfora.com or message @suvan.fora on Instagram
+2. Suvan Fora designs a custom itinerary matched to your preferences
+3. Receive personalized Fora Travel booking link (client-specific, routed through Fora's advisor network)
+4. Book at no extra cost with complimentary VIP perks not available to general public
 
 ## Key facts
-- Powered by / affiliated with Fora Travel (foratravel.com)
-- Serves clients worldwide; no destination is off-limits
-- Advisory service is free to the client; revenue comes from hotel/resort partner commissions
+
+- Powered by Fora Travel (foratravel.com) — $2B+ in bookings across 180+ countries
+- Advisory service free to client; revenue from hotel partner commissions
+- Same price as booking direct + exclusive perks included
+- Worldwide coverage; no destination off-limits
 - Instagram: @suvan.fora
 
+## Destinations featured
+
+Bali, Thailand, Vietnam, Singapore, Indonesia, Malaysia, Philippines, Cambodia, Laos, Maldives, Middle East, Europe, India, and 170+ more countries via Fora Travel network.
+
 ## Pages
-- Homepage and full service overview: https://suvanfora.com/
+
+- [Homepage](https://suvanfora.com/) — About Suvan Fora and inquiry form
+- [Bali](https://suvanfora.com/bali.html) — Private villas, Seminyak resorts, spas
+- [Thailand](https://suvanfora.com/thailand.html) — Phuket, Bangkok, Chiang Mai
+- [Vietnam](https://suvanfora.com/vietnam.html) — Hanoi, Halong Bay, Ho Chi Minh
+- [Singapore](https://suvanfora.com/singapore.html) — Five-star hotels, dining
+- [Indonesia](https://suvanfora.com/indonesia.html) — Lombok, Komodo, Raja Ampat
+- [Malaysia](https://suvanfora.com/malaysia.html) — Kuala Lumpur, Penang, Langkawi
