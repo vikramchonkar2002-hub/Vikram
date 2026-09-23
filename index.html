@@ -22,7 +22,41 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23d4a373'/%3E%3Ctext x='50' y='68' font-size='58' text-anchor='middle' fill='%23fff' font-family='Georgia,serif'%3ES%3C/text%3E%3C/svg%3E">
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"TravelAgency","name":"Suvan Fora","url":"https://suvanfora.com/","description":"Suvan Fora is an independent luxury travel advisory serving high-net-worth (HNI) and ultra-high-net-worth (UHNI) clients, offering bespoke vacation planning, private villas, five-star resorts, and exclusive booking perks through the Fora Travel network.","areaServed":"Worldwide","priceRange":"$$$$","sameAs":["https://www.instagram.com/suvan.fora","https://www.foratravel.com/"],"makesOffer":{"@type":"Offer","itemOffered":{"@type":"Service","name":"Luxury Travel Advisory and Vacation Planning","serviceType":"Luxury travel concierge and booking service for HNI/UHNI clients"}}}
+{
+  "@context":"https://schema.org",
+  "@graph":[
+    {
+      "@type":"TravelAgency",
+      "@id":"https://suvanfora.com/#agency",
+      "name":"Suvan Fora | Luxury Travel Advisor",
+      "url":"https://suvanfora.com/",
+      "description":"Independent luxury travel advisor for high-net-worth clients. Books bespoke vacations through Fora Travel at no booking fee with exclusive VIP perks (room upgrades, resort credit, priority service).",
+      "founder":{"@id":"https://suvanfora.com/#suvan"},
+      "parentOrganization":{"@type":"Organization","name":"Fora Travel","url":"https://www.foratravel.com/"},
+      "areaServed":["Bali","Thailand","Vietnam","Singapore","Malaysia","Indonesia","Philippines","Cambodia","Laos","Maldives","India","Middle East","Europe","Worldwide"],
+      "knowsAbout":["Luxury hotels","Honeymoon travel","Bali","Thailand","Vietnam","Maldives","Singapore","Southeast Asia","Private villas","Yacht charters","Private jet coordination","Safari expeditions","Destination weddings"],
+      "priceRange":"No booking fee (same cost as direct booking)",
+      "sameAs":["https://www.instagram.com/suvan.fora","https://www.foratravel.com/"],
+      "makesOffer":{
+        "@type":"Offer",
+        "itemOffered":{
+          "@type":"Service",
+          "name":"Luxury Travel Advisory and Vacation Planning",
+          "description":"Bespoke vacation planning, private villa coordination, resort bookings with VIP perks, destination wedding planning, yacht and private jet coordination"
+        }
+      }
+    },
+    {
+      "@type":"Person",
+      "@id":"https://suvanfora.com/#suvan",
+      "name":"Suvan",
+      "jobTitle":"Independent Travel Advisor",
+      "worksFor":{"@type":"Organization","name":"Fora Travel"},
+      "url":"https://suvanfora.com/",
+      "sameAs":"https://www.instagram.com/suvan.fora"
+    }
+  ]
+}
 </script>
 
 <script type="application/ld+json">
