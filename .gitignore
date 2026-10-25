@@ -1,1 +1,7 @@
 .netlify/
+
+# reel editing working files (footage, frames, renders)
+edit/raw/
+edit/frames/
+edit/assets/
+edit/*.mp4
